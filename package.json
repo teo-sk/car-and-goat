@@ -1,0 +1,23 @@
+{
+  "name": "CarAndGoats",
+  "version": "0.0.0",
+  "description": "The probability test game",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teo-sk/car-and-goat.git"
+  },
+  "keywords": [
+    "car",
+    "goat",
+    "probability"
+  ],
+  "author": "Teo <teo@teo.sk>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/teo-sk/car-and-goat/issues"
+  }
+}
