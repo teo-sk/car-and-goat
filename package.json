@@ -19,5 +19,9 @@
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/teo-sk/car-and-goat/issues"
+  },
+  "dependencies": {
+    "prompt": "~0.2.14",
+    "colors": "~1.0.3"
   }
 }
